@@ -1,6 +1,6 @@
-# __shellTemplate
+# YamlObject
 
-[ドキュメント](./document/README.md)
+[ドキュメント](./Document/README.md)
 
 ## 概要
 
